@@ -10,7 +10,6 @@ function adicionarAmigo(){
     }   
     else{
         amigos.push(nome);
-        console.log(amigos);
     }
     limparCampo();
     atualizaLista();
